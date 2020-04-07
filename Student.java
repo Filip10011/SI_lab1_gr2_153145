@@ -2,6 +2,7 @@ class Student {
 	String index;
 	String firstName;
 	String lastName;
+	int grades[];
 
 	//TODO constructor
 
@@ -9,6 +10,7 @@ class Student {
 
 	public double getAverage() {
 		//TODO
+		
 	}
 
 	public int ECTSCredits() {
