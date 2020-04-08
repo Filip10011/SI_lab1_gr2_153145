@@ -14,6 +14,10 @@ class Student {
 	//TODO constructor
 
 	//TODO seters & getters
+	
+	public class Faculty {
+		   
+		   }
 
 	public double getAverage() {
 		//TODO
